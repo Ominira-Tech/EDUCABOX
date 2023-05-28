@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<fonts>
+    <font>
+        <filename>arial.ttf</filename>
+        <familyname>DejaVu Sans</familyname>
+    </font>
+    <font>
+        <filename>teletext.ttf</filename>
+        <familyname>teletext2</familyname>
+    </font>
+</fonts>

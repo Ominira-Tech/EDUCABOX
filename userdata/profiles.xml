@@ -1,5 +1,5 @@
 <profiles>
-    <lastloaded>0</lastloaded>
+    <lastloaded>1</lastloaded>
     <useloginscreen>true</useloginscreen>
     <autologin>-1</autologin>
     <nextIdProfile>2</nextIdProfile>
@@ -22,11 +22,11 @@
         <lockgames>false</lockgames>
         <lockmode>0</lockmode>
         <lockcode>-</lockcode>
-        <lastdate>27/05/2023 - 23:55</lastdate>
+        <lastdate>28/05/2023 - 08:30</lastdate>
     </profile>
     <profile>
         <id>1</id>
-        <name>Persona</name>
+        <name>Aluno 1</name>
         <directory pathversion="1">profiles/Persona/</directory>
         <thumbnail pathversion="1"></thumbnail>
         <hasdatabases>true</hasdatabases>
