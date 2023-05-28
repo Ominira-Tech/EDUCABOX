@@ -100,16 +100,6 @@
 							<param name="onclick_action" value="$VAR[MovieSetOnClickActionVar]"/>
 						</include>
 					</control>
-					<include content="ImageWidget" condition="!Library.HasContent(movies)">
-						<param name="text_label" value="$LOCALIZE[31104]" />
-						<param name="button_label" value="$LOCALIZE[31110]" />
-						<param name="button_onclick" value="ActivateWindow(videos,files,return)"/>
-						<param name="button_id" value="5500"/>
-						<param name="button2_onclick" value="Skin.SetBool(HomeMenuNoMovieButton)"/>
-					</include>
-					<include content="WidgetScrollbar" condition="Skin.HasSetting(touchmode)">
-						<param name="scrollbar_id" value="5010"/>
-					</include>
 				</control>
 				<control type="group" id="6000">
 					<visible>String.IsEqual(Container(9000).ListItem.Property(id),tvshows)</visible>
@@ -930,7 +920,7 @@
 							<property name="menu_id">$NUMBER[5000]</property>
 							<thumb>icons/sidemenu/movies.png</thumb>
 							<property name="id">Cursos</property>
-							<visible>!Skin.HasSetting(HomeMenuNoMovieButton)</visible>
+							<visible>!Skin.HasSetting(HomeMenuNoProgramsButton)</visible>
 						</item>
 						<item>
 							<label>Streaming</label>
@@ -1109,13 +1099,13 @@
 				<animation effect="fade" start="0" end="100" time="300">WindowOpen</animation>
 				<animation effect="fade" start="100" end="0" time="200">WindowClose</animation>
 				<top>30</top>
-				<left>90</left>
+				<left>80</left>
 				<control type="image">
-					<left>4</left>
+					<left>1</left>
 					<top>0</top>
 					<aspectratio>keep</aspectratio>
-					<width>192</width>
-					<height>56</height>
+					<width>300</width>
+					<height>100</height>
 					<texture>special://xbmc/media/vendor_logo.png</texture>
 				</control>
 			</control>

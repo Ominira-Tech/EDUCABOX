@@ -1,0 +1,146 @@
+# game.libretro.cannonball language file
+# Addon Name: game.libretro.cannonball
+# Addon id: game.libretro.cannonball
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.cannonball\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: 2020-01-30 03:30i\n"
+"PO-Revision-Date: 2023-02-17 22:57+0000\n"
+"Last-Translator: Demian <Demian@gmx.co.uk>\n"
+"Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-cannonball/de_de/>\n"
+"Language: de_de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.2\n"
+
+msgctxt "Addon Summary"
+msgid "Cannonball"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki."
+msgstr "Cannonball ist eine verbesserte Version des Arcade-Autorennens OutRun, das von Yu Suzuki entwickelt wurde."
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgctxt "#30001"
+msgid "Menu > Show at Start"
+msgstr "Menü > Beim Start anzeigen"
+
+msgctxt "#30002"
+msgid "Menu > Road Scroll Speed"
+msgstr "Menü > Scrollgeschwindigkeit der Straße"
+
+msgctxt "#30003"
+msgid "Video > Frame Rate"
+msgstr "Video > Framerate"
+
+msgctxt "#30004"
+msgid "Video > Widescreen Mode"
+msgstr "Video > Breitbildmodus"
+
+msgctxt "#30005"
+msgid "Video > High-Resolution Mode"
+msgstr "Video > Hochauflösungsmodus"
+
+msgctxt "#30006"
+msgid "Audio > Enable"
+msgstr "Audio > Aktivieren"
+
+msgctxt "#30007"
+msgid "Audio > Advertise Sound (Restart)"
+msgstr "Audio > Ankündigungssound (Neustart erforderlich)"
+
+msgctxt "#30008"
+msgid "Audio > Preview Music (Restart)"
+msgstr "Audio > Musik vorhören (Neustart erforderlich)"
+
+msgctxt "#30009"
+msgid "Audio > Fix Samples (Restart)"
+msgstr "Audio > Samples korrigieren (Neustart erforderlich)"
+
+msgctxt "#30010"
+msgid "Input > Gear Mode"
+msgstr "Eingabe > Gangschaltung-Modus"
+
+msgctxt "#30011"
+msgid "Input > Analog Controls"
+msgstr "Eingabe > Analoge Steuerung"
+
+msgctxt "#30012"
+msgid "Input > Digital Steer Speed (Restart)"
+msgstr "Eingabe > Digitale Lenkgeschwindigkeit (Neustart erforderlich)"
+
+msgctxt "#30013"
+msgid "Input > Digital Pedal Speed (Restart)"
+msgstr "Eingabe > Digitale Pedalgeschwindigkeit (Neustart erforderlich)"
+
+msgctxt "#30014"
+msgid "Input > Haptic Feedback Strength"
+msgstr "Eingabe > Stärke der haptischen Rückmeldung"
+
+msgctxt "#30015"
+msgid "Engine > Use Japanese Tracks (Restart)"
+msgstr "Engine > Japanische Strecken verwenden (Neustart)"
+
+msgctxt "#30016"
+msgid "Engine > Freeplay Mode"
+msgstr "Engine > Freispielmodus"
+
+msgctxt "#30017"
+msgid "Engine > Force AI to Play"
+msgstr "Motor > KI zum Spielen zwingen"
+
+msgctxt "#30018"
+msgid "Engine > Time Limit (Restart)"
+msgstr "Engine > Zeitbegrenzung (Neustart erforderlich"
+
+msgctxt "#30019"
+msgid "Engine > Traffic Difficulty (Restart)"
+msgstr "Engine > Verkehrsschwierigkeit (Neustart erforderlich)"
+
+msgctxt "#30020"
+msgid "Engine > Extra Level Objects (Restart)"
+msgstr "Engine > Extralevel-Objekte (Neustart erforderlich)"
+
+msgctxt "#30021"
+msgid "Engine > Use Prototype Stage 1 (Restart)"
+msgstr "Engine > Prototyp Stufe 1 verwenden (Neustart erforderlich)"
+
+msgctxt "#30022"
+msgid "Engine > New Attract Mode (Restart)"
+msgstr "Engine > Neuer Anziehungsmodus (Neustart erforderlich)"
+
+msgctxt "#30023"
+msgid "Engine > Randomize Traffic Patterns (Restart)"
+msgstr "Engine > Zufällige Verkehrsmuster erzeugen (Neustart erforderlich)"
+
+msgctxt "#30024"
+msgid "Engine > Fix Game Bugs (Restart)"
+msgstr "Engine > Spielprobleme beheben (Neustart erforderlich)"
+
+msgctxt "#30025"
+msgid "Engine > Fix Timing Bugs (Restart)"
+msgstr "Engine > Timing-Fehler beheben (Neustart erforderlich)"
+
+msgctxt "#30026"
+msgid "Engine > Time Trial Laps (Restart)"
+msgstr "Engine > Zeitfahrrunden (Neustart erforderlich)"
+
+msgctxt "#30027"
+msgid "Engine > Time Trial Traffic Level (Restart)"
+msgstr "Engine > Verkehrsstufe beim Zeitfahren (Neustart erforderlich)"
+
+msgctxt "#30028"
+msgid "Engine > Continuous Mode Traffic Level (Restart)"
+msgstr "Engine > Verkehrsstufe im fortlaufender Modus (Neustart erforderlich)"
+
+msgctxt "#30029"
+msgid "Engine > Display Debug Info (Restart)"
+msgstr "Engine > Debug-Informationen anzeigen (Neustart erforderlich)"

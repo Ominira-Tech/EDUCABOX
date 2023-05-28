@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<buttonmap>
+    <device name="Keyboard" provider="application">
+        <controller id="game.controller.default">
+            <feature name="back" key="backspace" />
+            <feature name="down" key="down" />
+            <feature name="left" key="left" />
+            <feature name="right" key="right" />
+            <feature name="start" key="space" />
+            <feature name="up" key="up" />
+        </controller>
+    </device>
+</buttonmap>

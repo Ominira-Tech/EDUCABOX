@@ -175,6 +175,15 @@
 							<property name="path">addons://sources/game/</property>
 							<property name="menu_id">$NUMBER[509]</property>
 						</item>
+						<item id="8">
+							<label>$LOCALIZE[35049]</label>
+							<visible>System.GetBool(gamesgeneral.enable)</visible>
+							<onclick>ActivateWindow(games,addons://sources/game/,return)</onclick>
+							<thumb>icons/sidemenu/games.png</thumb>
+							<property name="id">game</property>
+							<property name="path">addons://sources/game/</property>
+							<property name="menu_id">$NUMBER[509]</property>
+						</item>
 						<item id="3">
 							<label>$LOCALIZE[1043]</label>
 							<onclick>ActivateWindow(programs,addons://sources/executable/,return)</onclick>

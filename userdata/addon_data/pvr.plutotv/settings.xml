@@ -1,0 +1,6 @@
+<settings version="2">
+    <setting id="install_widevine" default="true" />
+    <setting id="run_is_info" default="true" />
+    <setting id="internal_sid">74cef8fd-63ec-102f-eaa4-725c2e62dda2</setting>
+    <setting id="internal_deviceid">f1960bd0-a6a4-7d64-301a-1ac124516f3b</setting>
+</settings>

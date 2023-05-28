@@ -7,14 +7,14 @@
 			<include>Animation_TopSlide</include>
 			<control type="group">
 				<centerleft>50%</centerleft>
-				<top>160</top>
-				<width>250</width>
-				<height>112</height>
+				<top>120</top>
+				<width>450</width>
+				<height>312</height>
 				<control type="image">
 					<left>0</left>
 					<top>0</top>
-					<width>250</width>
-					<height>112</height>
+					<width>450</width>
+					<height>312</height>
 					<aspectratio aligny="center" align="center">keep</aspectratio>
 					<texture>special://xbmc/media/vendor_logo.png</texture>
 				</control>
