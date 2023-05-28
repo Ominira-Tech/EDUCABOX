@@ -47,7 +47,7 @@ Para realizar a customização utilizando um computador Windows:
 - Executar o projeto normalmente;
 
 ### Passo a passo para utilização
-O projeto customizado não necessita de grandes alterações para funcionar. Para utilizar basta ser instalado no aparelho onde será utilizado. Em caso de distribuição de aparelhos TV Box, eles poderão ser entregues com o software instalado, sem necessidade do usuário fazer qualquer tipo de customização. 
+O projeto customizado não necessita de alterações para funcionar. Para utilizar basta ser instalado no aparelho onde será utilizado. Em caso de distribuição de aparelhos TV Box, eles poderão ser entregues com o software instalado, sem necessidade do usuário fazer qualquer tipo de customização. 
 Assim sendo, o usuário deverá:
 - Conectar a TV Box a televisão;
 - Ligar a Televisão;
