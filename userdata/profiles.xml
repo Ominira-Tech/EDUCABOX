@@ -1,5 +1,5 @@
 <profiles>
-    <lastloaded>1</lastloaded>
+    <lastloaded>0</lastloaded>
     <useloginscreen>true</useloginscreen>
     <autologin>-1</autologin>
     <nextIdProfile>2</nextIdProfile>
@@ -7,7 +7,7 @@
         <id>0</id>
         <name>EDUCABOX</name>
         <directory pathversion="1">special://masterprofile/</directory>
-        <thumbnail pathversion="1">C:\Program Files\Kodi\media\icon256x256.png</thumbnail>
+        <thumbnail pathversion="1"></thumbnail>
         <hasdatabases>true</hasdatabases>
         <canwritedatabases>true</canwritedatabases>
         <hassources>true</hassources>
@@ -22,7 +22,7 @@
         <lockgames>false</lockgames>
         <lockmode>0</lockmode>
         <lockcode>-</lockcode>
-        <lastdate>28/05/2023 - 08:30</lastdate>
+        <lastdate>28/05/2023 - 08:41</lastdate>
     </profile>
     <profile>
         <id>1</id>
