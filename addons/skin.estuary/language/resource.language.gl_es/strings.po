@@ -354,7 +354,7 @@ msgid "Channel options"
 msgstr "Opcións da canle"
 
 msgctxt "#31098"
-msgid "Select your Kodi user profile[CR]to login and continue"
+msgid "Select your EducaBox user profile[CR]to login and continue"
 msgstr "Selecciona o teu perfil de usuario do Kodi[CR]para iniciar sesión e continuar"
 
 #. viewtype name

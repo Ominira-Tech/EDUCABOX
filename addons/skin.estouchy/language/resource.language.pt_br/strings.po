@@ -1,15 +1,15 @@
-# Kodi Media Center language file
+# EducaBox Media Center language file
 # Addon Name: Estouchy
 # Addon id: skin.estouchy
-# Addon Provider: Team Kodi
+# Addon Provider: Team EducaBox
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Project-Id-Version: EducaBox Main\n"
+"Report-Msgid-Bugs-To: translations@EducaBox.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2022-07-01 08:26+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
-"Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-estouchy/pt_br/>\n"
+"Last-Translator: Christian Gade <gade@EducaBox.tv>\n"
+"Language-Team: Portuguese (Brazil) <https://EducaBox.weblate.cloud/projects/EducaBox-add-ons-skins/skin-estouchy/pt_br/>\n"
 "Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -243,8 +243,8 @@ msgid "Configure display · Configure audio · Configure internet access · Conf
 msgstr "Configurar a exibição · Configurar áudio · Configurar Acesso à Internet · Configurar economia de energia · Configurar log de depuração"
 
 msgctxt "#31407"
-msgid "Manage your installed add-ons · Browse for and install add-ons from kodi.tv · Modify add-on settings"
-msgstr "Gerencie seus addons instalados. Navegue e instale addons via repositório do kodi.tv - Altere ajustes dos addons"
+msgid "Manage your installed add-ons · Browse for and install add-ons from EducaBox.tv · Modify add-on settings"
+msgstr "Gerencie seus addons instalados. Navegue e instale addons via repositório do EducaBox.tv - Altere ajustes dos addons"
 
 msgctxt "#31408"
 msgid "Configure actions that can be used during playback · Configure how media content is played"
@@ -267,8 +267,8 @@ msgid "Display system information · Hardware statistics · Check storage availa
 msgstr "Mostrar informações do sistema - Estatísticas de Hardware - Verificar disponibilidade de armazenamento - Verificar configuração de rede"
 
 msgctxt "#31421"
-msgid "Select your Kodi user Profile[CR]to login and continue"
-msgstr "Selecione seu perfil de usuário no Kodi[CR] para logar-se e continuar"
+msgid "Select your EducaBox user Profile[CR]to login and continue"
+msgstr "Selecione seu perfil de usuário no EducaBox[CR] para logar-se e continuar"
 
 msgctxt "#31548"
 msgid "Home menu"
@@ -412,8 +412,8 @@ msgid "There are two things to know about navigating Estouchy"
 msgstr "Existem 2 situações que precisam saber sobre como navegar na Estouchy"
 
 msgctxt "#31902"
-msgid "The Kodi logo functions as a 'HOME' button. Whenever you touch it, you will be taken back to the home screen."
-msgstr "As funções do logotipo do Kodi atua como um botão \"HOME\". Sempre que você tocá-lo, você será levado de volta à tela inicial."
+msgid "The EducaBox logo functions as a 'HOME' button. Whenever you touch it, you will be taken back to the home screen."
+msgstr "As funções do logotipo do EducaBox atua como um botão \"HOME\". Sempre que você tocá-lo, você será levado de volta à tela inicial."
 
 msgctxt "#31903"
 msgid "When you are playing audio or video, the item title will appear at the top of the screen. Touching it will take you to the fullscreen visualization or video window."

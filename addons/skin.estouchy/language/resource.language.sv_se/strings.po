@@ -267,7 +267,7 @@ msgid "Display system information · Hardware statistics · Check storage availa
 msgstr "Visa systeminformation · Hårdvarustatistik · Kontrollera lagringstillgängligheten · Visa nätverkskonfiguration"
 
 msgctxt "#31421"
-msgid "Select your Kodi user Profile[CR]to login and continue"
+msgid "Select your EducaBox user Profile[CR]to login and continue"
 msgstr "Välj din Kodi-användarprofil[CR]för att logga in och fortsätta"
 
 msgctxt "#31548"

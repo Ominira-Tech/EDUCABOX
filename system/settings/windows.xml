@@ -62,10 +62,10 @@
     <category id="regional">
       <group id="2">
         <setting id="locale.timezonecountry">
-          <visible>false</visible>
+          <visible>true</visible>
         </setting>
         <setting id="locale.timezone">
-          <visible>false</visible>
+          <visible>true</visible>
         </setting>
       </group>
     </category>

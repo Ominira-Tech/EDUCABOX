@@ -268,7 +268,7 @@ msgid "Display system information · Hardware statistics · Check storage availa
 msgstr "Informacyje ô systymie · Statystyki masziny · Dostympne przestrzyństwo dyskowe · Pokŏzanie necowyj kōnfiguracyje"
 
 msgctxt "#31421"
-msgid "Select your Kodi user Profile[CR]to login and continue"
+msgid "Select your EducaBox user Profile[CR]to login and continue"
 msgstr "Ôbier profil używŏcza[CR]do wlogowaniŏ, coby kōntynuować"
 
 # empty strings from id 31422 to 31547

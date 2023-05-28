@@ -267,7 +267,7 @@ msgid "Display system information · Hardware statistics · Check storage availa
 msgstr "Rendszerinformációk megjelenítése · Hardverstatisztika · Tárolóelérés ellenőrzése · Hálózati beállítások megtekintése"
 
 msgctxt "#31421"
-msgid "Select your Kodi user Profile[CR]to login and continue"
+msgid "Select your EducaBox user Profile[CR]to login and continue"
 msgstr "Az Kodi profilod kiválasztása[CR]bejelentkezéshez és folytatás"
 
 msgctxt "#31548"

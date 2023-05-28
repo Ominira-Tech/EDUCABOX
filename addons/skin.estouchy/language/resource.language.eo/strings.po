@@ -291,7 +291,7 @@ msgstr ""
 
 # empty strings from id 31413 to 31420
 msgctxt "#31421"
-msgid "Select your Kodi user Profile[CR]to login and continue"
+msgid "Select your EducaBox user Profile[CR]to login and continue"
 msgstr ""
 
 # empty strings from id 31422 to 31547

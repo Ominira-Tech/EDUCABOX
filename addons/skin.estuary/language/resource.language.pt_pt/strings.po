@@ -1,15 +1,15 @@
-# Kodi Media Center language file
+# EducaBox Media Center language file
 # Addon Name: Estuary
 # Addon id: skin.estuary
-# Addon Provider: Team Kodi
+# Addon Provider: Team EducaBox
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
+"Project-Id-Version: EducaBox Main\n"
 "Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2022-02-26 16:13+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
-"Language-Team: Portuguese (Portugal) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-estuary/pt_pt/>\n"
+"Last-Translator: Christian Gade <gade@EducaBox.tv>\n"
+"Language-Team: Portuguese (Portugal) <https://EducaBox.weblate.cloud/projects/EducaBox-add-ons-skins/skin-estuary/pt_pt/>\n"
 "Language: pt_pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,16 +18,16 @@ msgstr ""
 "X-Generator: Weblate 4.11\n"
 
 msgctxt "Addon Summary"
-msgid "Estuary skin by phil65. (Kodi's default skin)"
-msgstr "Visual Estuary de phil65 e Piers. (Visual por omissão do Kodi)"
+msgid "Estuary skin by phil65. (EducaBox's default skin)"
+msgstr "Visual Estuary de phil65 e Piers. (Visual por omissão do EducaBox)"
 
 msgctxt "Addon Description"
-msgid "Estuary is the default skin for Kodi 17.0 and above. It attempts to be easy for first time Kodi users to understand and use."
-msgstr "O Estuary é o visual por omissão para o Kodi 17.0 e posteriores. Tenta ser simples para os utilizadores menos experientes do Kodi compreenderem e usarem."
+msgid "Estuary is the default skin for EducaBox 17.0 and above. It attempts to be easy for first time EducaBox users to understand and use."
+msgstr "O Estuary é o visual por omissão para o EducaBox 17.0 e posteriores. Tenta ser simples para os utilizadores menos experientes do EducaBox compreenderem e usarem."
 
 msgctxt "Addon Disclaimer"
-msgid "Estuary is the default skin for Kodi, removing it may cause issues"
-msgstr "O Estuary é o visual por omissão do Kodi; se o remover, poderá ter alguns problemas"
+msgid "Estuary is the default skin for EducaBox, removing it may cause issues"
+msgstr "O Estuary é o visual por omissão do EducaBox; se o remover, poderá ter alguns problemas"
 
 msgctxt "#31000"
 msgid "Now playing"
@@ -354,8 +354,8 @@ msgid "Channel options"
 msgstr "Opções do canal"
 
 msgctxt "#31098"
-msgid "Select your Kodi user profile[CR]to login and continue"
-msgstr "Selecione o seu perfil de utilizador do Kodi[CR]para iniciar sessão e continuar"
+msgid "Select your EducaBox user profile[CR]to login and continue"
+msgstr "Selecione o seu perfil de utilizador do EDUCABOX[CR]para iniciar sessão e continuar"
 
 #. viewtype name
 msgctxt "#31099"
@@ -435,8 +435,8 @@ msgid "Enter add-on browser"
 msgstr "Entrar no navegador de add-ons"
 
 msgctxt "#31119"
-msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
-msgstr "Ainda não tem nenhuns add-ons instalados. Visite o nosso navegador de add-ons para escolher na nossa coleção e melhorar a sua experiência do Kodi."
+msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your EducaBox experience."
+msgstr "Ainda não tem nenhuns add-ons instalados. Visite o nosso navegador de add-ons para escolher na nossa coleção e melhorar a sua experiência do EducaBox."
 
 msgctxt "#31120"
 msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
@@ -531,8 +531,8 @@ msgid "Play speed"
 msgstr "Velocidade de reprodução"
 
 msgctxt "#31143"
-msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
-msgstr "Ainda não configurou o PVR. Para usar o PVR, escolha um add-on cliente de PVR e configure-o. Por favor visite http://kodi.wiki/view/PVR para saber mais."
+msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://EducaBox.wiki/view/PVR to learn more."
+msgstr "Ainda não configurou o PVR. Para usar o PVR, escolha um add-on cliente de PVR e configure-o. Por favor visite http://EducaBox.wiki/view/PVR para saber mais."
 
 msgctxt "#31144"
 msgid "Enter add-on browser"

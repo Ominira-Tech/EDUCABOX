@@ -1,15 +1,15 @@
-# Kodi Media Center language file
+# EducaBox Media Center language file
 # Addon Name: AAC Audio Encoder
-# Addon id: audioencoder.kodi.builtin.aac
-# Addon Provider: Team Kodi
+# Addon id: audioencoder.EducaBox.builtin.aac
+# Addon Provider: Team EducaBox
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"Project-Id-Version: EducaBox Main\n"
+"Report-Msgid-Bugs-To: translations@EducaBox.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2021-10-08 02:00+0000\n"
 "Last-Translator: Wanilton Campos <campos.wanilton@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://kodi.weblate.cloud/projects/kodi-core/audioencoder-kodi-builtin-aac/pt_br/>\n"
+"Language-Team: Portuguese (Brazil) <https://EducaBox.weblate.cloud/projects/EducaBox-core/audioencoder-EducaBox-builtin-aac/pt_br/>\n"
 "Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
