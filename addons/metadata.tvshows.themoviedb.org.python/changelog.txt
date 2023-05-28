@@ -1,3 +1,20 @@
+1.6.5
+made search of NFO file for a UniqueID less aggressive
+updated language files
+
+1.6.4
+added TMDb keywords as tag with option to disable function
+updated translations
+
+1.6.3
+set scraper to resue Python interpreter to increase speed of scraping
+
+1.6.2
+fix for episode groupings being ignored
+
+1.6.1
+fix for logic error when looking for episodeguide using external ID
+
 1.6.0
 change to use new JSON based episodeguide format to handle multiple providers
 fixes for last minute changes to new Nexus Python bindings
