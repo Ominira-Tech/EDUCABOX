@@ -11,7 +11,7 @@
     <setting id="lookandfeel.skin" default="true">skin.estuary</setting>
     <setting id="lookandfeel.skintheme" default="true">SKINDEFAULT</setting>
     <setting id="lookandfeel.skincolors" default="true">SKINDEFAULT</setting>
-    <setting id="lookandfeel.font" default="true">Default</setting>
+    <setting id="lookandfeel.font">Arial</setting>
     <setting id="lookandfeel.skinzoom" default="true">0</setting>
     <setting id="lookandfeel.stereostrength" default="true">5</setting>
     <setting id="lookandfeel.enablerssfeeds">true</setting>
@@ -371,8 +371,8 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>305</systemtotaluptime>
-        <settinglevel>1</settinglevel>
+        <systemtotaluptime>413</systemtotaluptime>
+        <settinglevel>3</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>

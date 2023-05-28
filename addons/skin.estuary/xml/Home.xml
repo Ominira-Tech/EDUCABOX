@@ -925,18 +925,15 @@
 					</itemlayout>
 					<content>
 						<item>
-							<label>$LOCALIZE[342]</label>
-							<onclick condition="Library.HasContent(movies) + Skin.HasSetting(home_no_categories_widget) + !System.GetBool(myvideos.flatten)">ActivateWindow(Videos,videodb://movies/,return)</onclick>
-							<onclick condition="Library.HasContent(movies) + Skin.HasSetting(home_no_categories_widget) + System.GetBool(myvideos.flatten)">ActivateWindow(Videos,videodb://movies/titles/,return)</onclick>
-							<onclick condition="Library.HasContent(movies) + !Skin.HasSetting(home_no_categories_widget)">ActivateWindow(Videos,videodb://movies/titles/,return)</onclick>
+							<label>Cursos</label>
 							<onclick condition="!Library.HasContent(movies)">ActivateWindow(Videos,sources://video/,return)</onclick>
 							<property name="menu_id">$NUMBER[5000]</property>
 							<thumb>icons/sidemenu/movies.png</thumb>
-							<property name="id">movies</property>
+							<property name="id">Cursos</property>
 							<visible>!Skin.HasSetting(HomeMenuNoMovieButton)</visible>
 						</item>
 						<item>
-							<label>$LOCALIZE[20343]</label>
+							<label>Streaming</label>
 							<onclick condition="Library.HasContent(tvshows) + Skin.HasSetting(home_no_categories_widget) + !System.GetBool(myvideos.flatten)">ActivateWindow(Videos,videodb://tvshows/,return)</onclick>
 							<onclick condition="Library.HasContent(tvshows) + Skin.HasSetting(home_no_categories_widget) + System.GetBool(myvideos.flatten)">ActivateWindow(Videos,videodb://tvshows/titles/,return)</onclick>
 							<onclick condition="Library.HasContent(tvshows) + !Skin.HasSetting(home_no_categories_widget)">ActivateWindow(Videos,videodb://tvshows/titles/,return)</onclick>
@@ -995,7 +992,7 @@
 							<visible>System.GetBool(gamesgeneral.enable) + !Skin.HasSetting(HomeMenuNoGamesButton)</visible>
 						</item>
 						<item>
-							<label>$LOCALIZE[24001]</label>
+							<label>Complementos</label>
 							<property name="menu_id">$NUMBER[8000]</property>
 							<onclick>ActivateWindow(1100)</onclick>
 							<thumb>icons/sidemenu/addons.png</thumb>
@@ -1092,7 +1089,7 @@
 					<bottom>0</bottom>
 					<height>39</height>
 					<width>100%</width>
-					<font>font12</font>
+					<font>font19</font>
 					<urlset>1</urlset>
 					<hitrect x="-100" y="0" w="1" h="1" />
 					<titlecolor>button_focus</titlecolor>
