@@ -37,10 +37,10 @@
     <setting id="masterlock.maxretries" default="true">3</setting>
     <setting id="lookandfeel.startupaction" default="true">0</setting>
     <setting id="lookandfeel.startupwindow" default="true">10000</setting>
-    <setting id="window.width">960</setting>
-    <setting id="window.height">616</setting>
-    <setting id="window.top">138</setting>
-    <setting id="window.left">-1273</setting>
+    <setting id="window.width">1366</setting>
+    <setting id="window.height">705</setting>
+    <setting id="window.top">23</setting>
+    <setting id="window.left" default="true">0</setting>
     <setting id="videolibrary.updateonstartup" default="true">false</setting>
     <setting id="videolibrary.backgroundupdate" default="true">false</setting>
     <setting id="musiclibrary.updateonstartup" default="true">false</setting>
@@ -371,7 +371,7 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>535</systemtotaluptime>
+        <systemtotaluptime>655</systemtotaluptime>
         <settinglevel>3</settinglevel>
         <eventlog>
             <level>0</level>
@@ -475,10 +475,10 @@
             <sortattributes>0</sortattributes>
         </programs>
         <videofiles>
-            <viewmode>720896</viewmode>
+            <viewmode>131124</viewmode>
             <sortmethod>1</sortmethod>
             <sortorder>1</sortorder>
-            <sortattributes>0</sortattributes>
+            <sortattributes>1</sortattributes>
         </videofiles>
         <videonavactors>
             <viewmode>65536</viewmode>

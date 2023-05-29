@@ -4,6 +4,11 @@
     </programs>
     <video>
         <default pathversion="1"></default>
+        <source>
+            <name>Cursos Programação</name>
+            <path pathversion="1">C:\Users\J4K3\AppData\Roaming\Kodi\media\Cursos Programação\</path>
+            <allowsharing>true</allowsharing>
+        </source>
     </video>
     <music>
         <default pathversion="1"></default>

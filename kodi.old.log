@@ -1,389 +1,487 @@
-Ôªø2023-05-28 19:33:19.497 T:6948     info <general>: -----------------------------------------------------------------------
-2023-05-28 19:33:19.497 T:6948     info <general>: Starting Kodi (20.1 (20.1.0) Git:20230312-289ec664e3). Platform: Windows NT x86 64-bit
-2023-05-28 19:33:19.497 T:6948     info <general>: Using Release Kodi x64
-2023-05-28 19:33:19.497 T:6948     info <general>: Kodi compiled 2023-03-12 by MSVC 193431937 for Windows NT x86 64-bit version 10.0 (0x0A00000B)
-2023-05-28 19:33:19.497 T:6948     info <general>: Running on Windows 11 22H2, kernel: Windows NT x86 64-bit version 10.0.22621.1702
-2023-05-28 19:33:19.497 T:6948     info <general>: FFmpeg version/source: 4.4.1-Kodi
-2023-05-28 19:33:19.497 T:6948     info <general>: Host CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, 8 cores available
-2023-05-28 19:33:19.499 T:6948     info <general>: System has 8.0 GB of RAM installed
-2023-05-28 19:33:19.499 T:6948     info <general>: Desktop Resolution: 1920x1080 32Bit at 60Hz
-2023-05-28 19:33:19.499 T:6948     info <general>: Running with restricted rights
-2023-05-28 19:33:19.499 T:6948     info <general>: Aero is enabled
-2023-05-28 19:33:19.500 T:6948     info <general>: Display is not HDR capable or cannot be detected
-2023-05-28 19:33:19.500 T:6948     info <general>: special://xbmc/ is mapped to: C:\Users\Acer\AppData\Roaming\kodi
-2023-05-28 19:33:19.500 T:6948     info <general>: special://xbmcbin/ is mapped to: C:\Users\Acer\AppData\Roaming\kodi
-2023-05-28 19:33:19.500 T:6948     info <general>: special://xbmcbinaddons/ is mapped to: C:\Users\Acer\AppData\Roaming\kodi/addons
-2023-05-28 19:33:19.500 T:6948     info <general>: special://masterprofile/ is mapped to: C:\Users\Acer\AppData\Roaming\Kodi\userdata
-2023-05-28 19:33:19.500 T:6948     info <general>: special://home/ is mapped to: C:\Users\Acer\AppData\Roaming\Kodi\
-2023-05-28 19:33:19.500 T:6948     info <general>: special://temp/ is mapped to: C:\Users\Acer\AppData\Roaming\Kodi\cache
-2023-05-28 19:33:19.500 T:6948     info <general>: special://logpath/ is mapped to: C:\Users\Acer\AppData\Roaming\Kodi\
-2023-05-28 19:33:19.500 T:6948     info <general>: Webserver extra whitelist paths: 
-2023-05-28 19:33:19.500 T:6948     info <general>: The executable running is: C:\Users\Acer\AppData\Roaming\kodi\kodi.exe
-2023-05-28 19:33:19.503 T:6948     info <general>: Local hostname: DESKTOP-K8HH21P
-2023-05-28 19:33:19.503 T:6948     info <general>: Log File is located: C:\Users\Acer\AppData\Roaming\Kodi\kodi.log
-2023-05-28 19:33:19.503 T:6948     info <general>: -----------------------------------------------------------------------
-2023-05-28 19:33:19.503 T:6948     info <general>: loading settings
-2023-05-28 19:33:19.504 T:6948     info <general>: special://profile/ is mapped to: special://masterprofile/
-2023-05-28 19:33:19.515 T:6948     info <general>: Skipped 1 duplicate messages..
-2023-05-28 19:33:19.515 T:6948     info <general>: No settings file to load (special://xbmc/system/advancedsettings.xml)
-2023-05-28 19:33:19.515 T:6948     info <general>: No settings file to load (special://masterprofile/advancedsettings.xml)
-2023-05-28 19:33:19.515 T:6948     info <general>: Default Video Player: VideoPlayer
-2023-05-28 19:33:19.515 T:6948     info <general>: Default Audio Player: paplayer
-2023-05-28 19:33:19.515 T:6948     info <general>: Disabled debug logging due to GUI setting. Level 0.
-2023-05-28 19:33:19.515 T:6948     info <general>: Log level changed to "info"
-2023-05-28 19:33:19.515 T:6948     info <general>: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
-2023-05-28 19:33:19.519 T:6948     info <general>: creating subdirectories
-2023-05-28 19:33:19.519 T:6948     info <general>: userdata folder: special://masterprofile/
-2023-05-28 19:33:19.519 T:6948     info <general>: recording folder: 
-2023-05-28 19:33:19.519 T:6948     info <general>: screenshots folder: 
-2023-05-28 19:33:19.521 T:6948     info <general>: Running database version Addons33
-2023-05-28 19:33:19.560 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.aac v1.0.2 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.wma v1.0.2 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.default v1.0.39 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.keyboard v1.1.27 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.mouse v1.0.22 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.snes v1.0.37 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.audioengine v1.1.1 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.filesystem v1.1.8 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.general v1.0.5 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.gui v5.15.0 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.main v2.0.2 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.network v1.0.4 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.tools v1.0.4 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audiodecoder v4.0.0 installed
-2023-05-28 19:33:19.561 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audioencoder v3.0.0 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.game v3.0.0 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.imagedecoder v3.0.1 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.inputstream v3.2.0 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.peripheral v2.0.0 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.pvr v8.2.0 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.screensaver v2.2.0 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.vfs v3.0.1 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.videocodec v2.0.3 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.visualization v4.0.0 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.resource v1.0.0 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.album.universal v3.1.9 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.artists.universal v4.3.11 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.allmusic.com v3.2.2 installed
-2023-05-28 19:33:19.562 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.fanart.tv v3.6.4 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.musicbrainz.org v2.2.4 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.theaudiodb.com v2.0.3 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.albums v1.0.14 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.artists v1.0.14 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.local v1.0.1 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.themoviedb.org.python v2.1.0 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org.python v1.6.5 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: peripheral.joystick v20.1.8 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.xbmc.org v3.3.1 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.images.weathericons.default v1.1.9 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.en_gb v2.0.2 installed
-2023-05-28 19:33:19.563 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.pt_br v10.0.69 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.uisounds.kodi v1.0.1 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.black v1.0.34 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.dim v1.0.66 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.certifi v2022.9.24 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.chardet v4.0.0+matrix.1 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.future v0.18.2+matrix.1 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.idna v3.4.0 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pil v5.1.0 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pycryptodome v3.4.3 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.requests v2.27.1+matrix.1 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.simpleeval v0.9.10 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.simpleplugin3 v3.0.6+matrix.1 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.unidecode v1.1.1+matrix.2 installed
-2023-05-28 19:33:19.564 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.urllib3 v1.26.13+matrix.1 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.skinshortcuts v2.0.3 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: service.xbmc.versioncheck v0.5.28+matrix.1 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estouchy v3.0.8 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estuary v3.0.10 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: weather.gismeteo v0.6.3+matrix.1 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.default v19.x-2.4.8 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.addon v20.1.0 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.core v0.1.0 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.gui v5.16.0 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.json v13.0.0 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.metadata v2.1.0 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.python v3.0.1 installed
-2023-05-28 19:33:19.565 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.webinterface v1.0.0 installed
-2023-05-28 19:33:19.567 T:6948     info <general>: CKeyboardLayoutManager: loading keyboard layouts from special://xbmc/system/keyboardlayouts...
-2023-05-28 19:33:19.573 T:5896     info <general>: Loading special://xbmc/system/IRSSmap.xml
-2023-05-28 19:33:19.573 T:5896     info <general>: * Adding remote mapping for device 'Microsoft MCE'
-2023-05-28 19:33:19.573 T:5896     info <general>: * Adding remote mapping for device 'Abstract'
-2023-05-28 19:33:19.573 T:6948     info <general>: Primary mode: Generic PnP Monitor #2: 1920x1080 @ 75.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 640x480 @ 60.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 640x480 @ 72.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 640x480 @ 75.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 800x600 @ 56.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 800x600 @ 60.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 800x600 @ 72.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 800x600 @ 75.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1024x768 @ 60.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1024x768 @ 70.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1024x768 @ 75.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1152x864 @ 75.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x720 @ 60.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x720 @ 59.94Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x720 @ 50.00Hz
-2023-05-28 19:33:19.574 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x768 @ 60.00Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x800 @ 60.00Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x960 @ 60.00Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x960 @ 75.00Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x1024 @ 60.00Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1280x1024 @ 75.00Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1360x768 @ 60.00Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1366x768 @ 60.00Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1400x1050 @ 59.94Hz
-2023-05-28 19:33:19.575 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1400x1050 @ 60.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1440x1080 @ 75.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1440x1080 @ 60.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1440x1080 @ 59.94Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1440x1080 @ 50.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1600x1024 @ 59.94Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1600x1024 @ 60.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1920x1080 @ 75.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1920x1080 @ 60.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1920x1080 @ 59.94Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1920x1080 @ 50.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 720x480 @ 60.00Hz
-2023-05-28 19:33:19.576 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 720x480 @ 59.94Hz
-2023-05-28 19:33:19.577 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 720x576 @ 50.00Hz
-2023-05-28 19:33:19.577 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1440x900 @ 60.00Hz
-2023-05-28 19:33:19.577 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1600x900 @ 60.00Hz
-2023-05-28 19:33:19.577 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1680x1050 @ 59.94Hz
-2023-05-28 19:33:19.577 T:6948     info <general>: Additional mode: Generic PnP Monitor #2: 1680x1050 @ 60.00Hz
-2023-05-28 19:33:19.577 T:6948     info <general>: CApplication::CApplication::CreateGUI - using the default windowing system
-2023-05-28 19:33:19.577 T:6948     info <general>: Checking resolution 15
-2023-05-28 19:33:19.666 T:6948     info <general>: DX::DeviceResources::CheckNV12SharedTexturesSupport: extended NV12 shared textures is supported
-2023-05-28 19:33:19.684 T:6948     info <general>: DX::DeviceResources::CreateDeviceResources: device is created on adapter 'NVIDIA GeForce GTX 1650' with D3D_FEATURE_LEVEL_12_1
-2023-05-28 19:33:19.684 T:6948     info <general>: DX::DeviceResources::GetVideoDriverVersion: video driver version is NVIDIA 531.68 (31.0.15.3168)
-2023-05-28 19:33:19.684 T:6948     info <general>: DX::DeviceResources::CheckDXVA2SharedDecoderSurfaces: DXVA2 shared decoder surfaces is supported
-2023-05-28 19:33:19.721 T:6948     info <general>: DX::DeviceResources::ResizeBuffers: 8 bit swapchain is used with 6 flip discard buffers and SDR output
-2023-05-28 19:33:19.727 T:6948     info <general>: RetroPlayer[RENDER]: Registering renderer factory for DirectX
-2023-05-28 19:33:19.763 T:6948     info <general>: load keymapping
-2023-05-28 19:33:19.764 T:6948     info <general>: Loading special://xbmc/system/keymaps/appcommand.xml
-2023-05-28 19:33:19.765 T:6948     info <general>: Loading special://xbmc/system/keymaps/customcontroller.AppleRemote.xml
-2023-05-28 19:33:19.765 T:6948     info <general>: Loading special://xbmc/system/keymaps/customcontroller.Harmony.xml
-2023-05-28 19:33:19.766 T:6948     info <general>: Loading special://xbmc/system/keymaps/customcontroller.SiriRemote.xml
-2023-05-28 19:33:19.766 T:6948     info <general>: Loading special://xbmc/system/keymaps/gamepad.xml
-2023-05-28 19:33:19.767 T:6948     info <general>: Loading special://xbmc/system/keymaps/joystick.xml
-2023-05-28 19:33:19.768 T:6948     info <general>: Loading special://xbmc/system/keymaps/keyboard.xml
-2023-05-28 19:33:19.769 T:6948     info <general>: Loading special://xbmc/system/keymaps/mouse.xml
-2023-05-28 19:33:19.770 T:6948     info <general>: Loading special://xbmc/system/keymaps/remote.xml
-2023-05-28 19:33:19.771 T:6948     info <general>: Loading special://xbmc/system/keymaps/touchscreen.xml
-2023-05-28 19:33:19.772 T:6948     info <general>: GUI format 960x616, Display Windowed
-2023-05-28 19:33:19.799 T:16104    info <general>: Found 2 Lists of Devices
-2023-05-28 19:33:19.799 T:16104    info <general>: Enumerated DIRECTSOUND devices:
-2023-05-28 19:33:19.799 T:16104    info <general>:     Device 1
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceName      : {69502AD9-2CF4-4640-8F23-66483EB3BA06}
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayName     : Speakers - VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayNameExtra: DIRECTSOUND: VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_channels        : FL, FR
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_sampleRates     : 48000
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_dataFormats     : AE_FMT_FLOAT
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_streamTypes     : No passthrough capabilities
-2023-05-28 19:33:19.799 T:16104    info <general>:     Device 2
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceName      : {EBAE54AB-77E5-454D-8076-4B1FCA914BC4}
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayName     : Speakers - Alto-falantes (Realtek(R) Audio)
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayNameExtra: DIRECTSOUND: Alto-falantes (Realtek(R) Audio)
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_channels        : FL, FR
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_sampleRates     : 48000
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_dataFormats     : AE_FMT_FLOAT
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_streamTypes     : No passthrough capabilities
-2023-05-28 19:33:19.799 T:16104    info <general>:     Device 3
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceName      : default
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayName     : default
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayNameExtra: 
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_channels        : FL, FR
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_sampleRates     : 48000
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_dataFormats     : AE_FMT_FLOAT
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_streamTypes     : No passthrough capabilities
-2023-05-28 19:33:19.799 T:16104    info <general>: Enumerated WASAPI devices:
-2023-05-28 19:33:19.799 T:16104    info <general>:     Device 1
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceName      : {69502AD9-2CF4-4640-8F23-66483EB3BA06}
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayName     : Speakers - VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayNameExtra: WASAPI: VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_channels        : FL, FR
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_streamTypes     : No passthrough capabilities
-2023-05-28 19:33:19.799 T:16104    info <general>:     Device 2
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceName      : {EBAE54AB-77E5-454D-8076-4B1FCA914BC4}
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayName     : Speakers - Alto-falantes (Realtek(R) Audio)
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_displayNameExtra: WASAPI: Alto-falantes (Realtek(R) Audio)
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
-2023-05-28 19:33:19.799 T:16104    info <general>:         m_channels        : FL, FR
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_sampleRates     : 48000,44100
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_streamTypes     : No passthrough capabilities
-2023-05-28 19:33:19.800 T:16104    info <general>:     Device 3
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_deviceName      : default
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_displayName     : default
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_displayNameExtra: 
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_channels        : FL, FR
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_sampleRates     : 48000,44100
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
-2023-05-28 19:33:19.800 T:16104    info <general>:         m_streamTypes     : No passthrough capabilities
-2023-05-28 19:33:19.800 T:14848    info <general>: CActiveAESink::OpenSink - initialize sink
-2023-05-28 19:33:19.820 T:16104 warning <general>: CActiveAE::ActiveAE::CActiveAE::StateMachine - signal: 0 from port: OutputControlPort not handled for state: 7
-2023-05-28 19:33:19.821 T:6948     info <general>: Skipped 1 duplicate messages..
-2023-05-28 19:33:19.820 T:6948     info <general>: CLangInfo: loading resource.language.pt_br language information...
-2023-05-28 19:33:19.824 T:6948     info <general>: global locale set to pt-br
-2023-05-28 19:33:19.824 T:6948     info <general>: CLangInfo: loading resource.language.pt_br language strings...
-2023-05-28 19:33:19.861 T:17548    info <general>: Running database version Addons33
-2023-05-28 19:33:19.861 T:17548    info <general>: Running database version ViewModes6
-2023-05-28 19:33:19.861 T:17548    info <general>: Running database version Textures13
-2023-05-28 19:33:19.863 T:17548    info <general>: Running database version MyMusic82
-2023-05-28 19:33:19.864 T:17548    info <general>: Running database version MyVideos121
-2023-05-28 19:33:19.865 T:17548    info <general>: Running database version TV40
-2023-05-28 19:33:19.865 T:17548    info <general>: Running database version Epg16
-2023-05-28 19:33:19.900 T:6948     info <general>: Unloaded skin
-2023-05-28 19:33:19.902 T:6948     info <general>:   load skin from: C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\ (version: 3.0.10)
-2023-05-28 19:33:19.902 T:6948     info <general>:   load fonts for skin...
-2023-05-28 19:33:19.902 T:6948     info <general>: Loading skin includes from C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\xml\Includes.xml
-2023-05-28 19:33:19.947 T:6948     info <general>: GUIFontManager::LoadFonts: Loading fonts from 'C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\xml\Font.xml'
-2023-05-28 19:33:20.009 T:6948     info <general>: ADDON::CSkinInfo::LoadTimers: Trying to load skin timers from C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\xml\Timers.xml
-2023-05-28 19:33:20.009 T:6948     info <general>:   load new skin...
-2023-05-28 19:33:20.009 T:6948     info <general>: Loading custom window XMLs from skin path C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\xml
-2023-05-28 19:33:20.029 T:6948     info <general>:   initialize new skin...
-2023-05-28 19:33:20.029 T:6948     info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:20.030 T:6948     info <general>: Loading skin file: Pointer.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:20.031 T:6948     info <general>: Loading skin file: DialogVolumeBar.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:20.032 T:6948     info <general>: Loading skin file: DialogExtendedProgressBar.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:20.033 T:6948     info <general>: Loading skin file: DialogSeekBar.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:20.042 T:6948     info <general>: Loading skin file: DialogNotification.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:20.043 T:6948     info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:20.043 T:6948     info <general>: Loading skin file: Custom_1109_TopBarOverlay.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:20.047 T:6948     info <general>: Loading resource://resource.uisounds.kodi/sounds.xml
-2023-05-28 19:33:20.063 T:6948     info <general>:   skin loaded...
-2023-05-28 19:33:20.063 T:6948     info <general>: Loading skin file: LoginScreen.xml, load type: KEEP_IN_MEMORY
-2023-05-28 19:33:20.075 T:6948  warning <general>: JSONRPC: Could not parse type "Setting.Details.SettingList"
-2023-05-28 19:33:20.075 T:6948     info <general>: JSONRPC: Adding type "Setting.Details.SettingList" to list of incomplete definitions (waiting for "Setting.Details.Setting")
-2023-05-28 19:33:20.075 T:6948     info <general>: JSONRPC: Resolving incomplete types/methods referencing Setting.Details.Setting
-2023-05-28 19:33:20.085 T:6948     info <general>: JSONRPC v13.0.0: Successfully initialized
-2023-05-28 19:33:20.091 T:6948     info <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "xinput"
-2023-05-28 19:33:20.092 T:6948     info <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "directinput"
-2023-05-28 19:33:20.093 T:6948     info <general>: PERIPHERALS::CPeripheralBus::Register - new keyboard device registered on application->keyboard: Teclado (0000:0000)
-2023-05-28 19:33:20.094 T:6948     info <general>: PERIPHERALS::CPeripheralBus::Register - new mouse device registered on application->mouse: Mouse (0000:0000)
-2023-05-28 19:33:20.094 T:6948     info <general>: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
-2023-05-28 19:33:20.094 T:6948     info <general>: Loaded playercorefactory configuration
-2023-05-28 19:33:20.094 T:6948     info <general>: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
-2023-05-28 19:33:20.094 T:6948     info <general>: special://masterprofile/playercorefactory.xml does not exist. Skipping.
-2023-05-28 19:33:20.094 T:6948     info <general>: removing tempfiles
-2023-05-28 19:33:20.096 T:6948     info <general>: initialize done
-2023-05-28 19:33:20.096 T:6948     info <general>: Running the application...
-2023-05-28 19:33:20.096 T:7688     info <general>: ES: Starting UDP Event server on port 9777
-2023-05-28 19:33:20.096 T:7688     info <general>: UDP: Listening on port 9777 (ipv6 : false)
-2023-05-28 19:33:20.096 T:6948     info <general>: JSONRPC Server: Successfully initialized
-2023-05-28 19:33:20.098 T:6948     info <CWebserver[8080]>: Started
-2023-05-28 19:33:20.107 T:6948     info <general>: [WS-Discovery]: Daemon started successfully.
-2023-05-28 19:33:20.168 T:17548    info <general>: WEATHER: Downloading weather
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.aac v1.0.2 installed
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.wma v1.0.2 installed
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.default v1.0.39 installed
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.keyboard v1.1.27 installed
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.mouse v1.0.22 installed
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.snes v1.0.37 installed
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.audioengine v1.1.1 installed
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.filesystem v1.1.8 installed
-2023-05-28 19:33:20.915 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.general v1.0.5 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.gui v5.15.0 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.main v2.0.2 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.network v1.0.4 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.tools v1.0.4 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audiodecoder v4.0.0 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audioencoder v3.0.0 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.game v3.0.0 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.imagedecoder v3.0.1 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.inputstream v3.2.0 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.peripheral v2.0.0 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.pvr v8.2.0 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.screensaver v2.2.0 installed
-2023-05-28 19:33:20.916 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.vfs v3.0.1 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.videocodec v2.0.3 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.visualization v4.0.0 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.resource v1.0.0 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.album.universal v3.1.9 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.artists.universal v4.3.11 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.allmusic.com v3.2.2 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.fanart.tv v3.6.4 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.musicbrainz.org v2.2.4 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.theaudiodb.com v2.0.3 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.albums v1.0.14 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.artists v1.0.14 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.local v1.0.1 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.themoviedb.org.python v2.1.0 installed
-2023-05-28 19:33:20.917 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org.python v1.6.5 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: peripheral.joystick v20.1.8 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.xbmc.org v3.3.1 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.images.weathericons.default v1.1.9 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.en_gb v2.0.2 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.pt_br v10.0.69 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.uisounds.kodi v1.0.1 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.black v1.0.34 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.dim v1.0.66 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.certifi v2022.9.24 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.chardet v4.0.0+matrix.1 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.future v0.18.2+matrix.1 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.idna v3.4.0 installed
-2023-05-28 19:33:20.918 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pil v5.1.0 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pycryptodome v3.4.3 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.requests v2.27.1+matrix.1 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.simpleeval v0.9.10 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.simpleplugin3 v3.0.6+matrix.1 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.unidecode v1.1.1+matrix.2 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.urllib3 v1.26.13+matrix.1 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.skinshortcuts v2.0.3 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: service.xbmc.versioncheck v0.5.28+matrix.1 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estouchy v3.0.8 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estuary v3.0.10 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: weather.gismeteo v0.6.3+matrix.1 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.default v19.x-2.4.8 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.addon v20.1.0 installed
-2023-05-28 19:33:20.919 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.core v0.1.0 installed
-2023-05-28 19:33:20.920 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.gui v5.16.0 installed
-2023-05-28 19:33:20.920 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.json v13.0.0 installed
-2023-05-28 19:33:20.920 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.metadata v2.1.0 installed
-2023-05-28 19:33:20.920 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.python v3.0.1 installed
-2023-05-28 19:33:20.920 T:6948     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.webinterface v1.0.0 installed
-2023-05-28 19:33:20.920 T:6948     info <general>: CLangInfo: loading resource.language.pt_br language information...
-2023-05-28 19:33:20.921 T:6948     info <general>: global locale set to pt-br
-2023-05-28 19:33:20.921 T:6948     info <general>: CLangInfo: loading resource.language.pt_br language strings...
-2023-05-28 19:33:21.182 T:6948     info <general>: Loading skin file: Startup.xml, load type: LOAD_EVERY_TIME
-2023-05-28 19:33:21.183 T:6948     info <general>: Loading skin file: Home.xml, load type: KEEP_IN_MEMORY
-2023-05-28 19:33:21.305 T:6948     info <general>: Unloaded skin
-2023-05-28 19:33:21.305 T:6948     info <general>:   load skin from: C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\ (version: 3.0.10)
-2023-05-28 19:33:21.308 T:6948     info <general>:   load fonts for skin...
-2023-05-28 19:33:21.310 T:6948     info <general>: Loading skin includes from C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\xml\Includes.xml
-2023-05-28 19:33:21.332 T:6948     info <general>: GUIFontManager::LoadFonts: Loading fonts from 'C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\xml\Font.xml'
-2023-05-28 19:33:21.369 T:6948     info <general>: ADDON::CSkinInfo::LoadTimers: Trying to load skin timers from C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\xml\Timers.xml
-2023-05-28 19:33:21.369 T:6948     info <general>:   load new skin...
-2023-05-28 19:33:21.369 T:6948     info <general>: Loading custom window XMLs from skin path C:\Users\Acer\AppData\Roaming\Kodi\addons\skin.estuary\xml
-2023-05-28 19:33:21.372 T:6948     info <general>:   initialize new skin...
-2023-05-28 19:33:21.372 T:6948     info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:21.373 T:6948     info <general>: Loading skin file: Pointer.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:21.374 T:6948     info <general>: Loading skin file: DialogVolumeBar.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:21.374 T:6948     info <general>: Loading skin file: DialogExtendedProgressBar.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:21.375 T:6948     info <general>: Loading skin file: DialogSeekBar.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:21.380 T:6948     info <general>: Loading skin file: DialogNotification.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:21.382 T:6948     info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:21.383 T:6948     info <general>: Loading skin file: Custom_1109_TopBarOverlay.xml, load type: LOAD_ON_GUI_INIT
-2023-05-28 19:33:21.387 T:6948     info <general>: Loading resource://resource.uisounds.kodi/sounds.xml
-2023-05-28 19:33:21.398 T:6948     info <general>:   skin loaded...
-2023-05-28 19:33:21.398 T:6948     info <general>: Loading skin file: Home.xml, load type: KEEP_IN_MEMORY
-2023-05-28 19:33:23.641 T:5896     info <general>: CIRServerSuite::Process: failed to connect to irss, will keep retrying every 5 seconds
-2023-05-28 19:33:25.384 T:6948     info <general>: Loading skin file: AddonBrowser.xml, load type: KEEP_IN_MEMORY
-2023-05-28 19:33:56.611 T:6948     info <general>: Loading skin file: DialogAddonInfo.xml, load type: KEEP_IN_MEMORY
-2023-05-28 19:33:59.410 T:6948     info <general>: Loading skin file: DialogSelect.xml, load type: KEEP_IN_MEMORY
-2023-05-28 19:34:10.579 T:10960    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddon: game.libretro v20.2.3 installed
-2023-05-28 19:34:10.973 T:10960    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddon: game.libretro.mrboom v5.2.0.148 installed
-2023-05-28 19:34:11.123 T:6948  warning <general>: CGUIMediaWindow::OnMessage - updating in progress
-2023-05-28 19:34:13.867 T:6948     info <general>: RetroPlayer[PROCESS]: Created process info for Windows
-2023-05-28 19:34:13.875 T:6948     info <general>: AddOnLog: game.libretro.mrboom: retro_variable (SYSTEM)    { ']®«7¸', '3“Ö¿HD”Hã¬HÉƒ [√ÃÃHÉÏ(ËªˇˇˇH˜ÿ¿˜ÿˇ»HÉƒ(√ÃHãƒLâH Lâ@HâPSVWAVHÉÏ8MãÒIãÿHãÚ∆@»' }
-                                                   
-2023-05-28 19:34:13.875 T:6948     info <general>: AddOnLog: game.libretro.mrboom: retro_variable (SYSTEM)    { 'ïÂú∞k$LïÂú(∞k$LïÂú1∞k$LïÂúo_', 'HÉÏ(Hãù' }
-                                                   
+Ôªø2023-05-28 23:22:28.212 T:13852    info <general>: -----------------------------------------------------------------------
+2023-05-28 23:22:28.212 T:13852    info <general>: Starting Kodi (20.1 (20.1.0) Git:20230312-289ec664e3). Platform: Windows NT x86 64-bit
+2023-05-28 23:22:28.212 T:13852    info <general>: Using Release Kodi x64
+2023-05-28 23:22:28.212 T:13852    info <general>: Kodi compiled 2023-03-12 by MSVC 193431937 for Windows NT x86 64-bit version 10.0 (0x0A00000B)
+2023-05-28 23:22:28.212 T:13852    info <general>: Running on Windows 10 22H2, kernel: Windows NT x86 64-bit version 10.0.19045.2965
+2023-05-28 23:22:28.212 T:13852    info <general>: FFmpeg version/source: 4.4.1-Kodi
+2023-05-28 23:22:28.212 T:13852    info <general>: Host CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz, 8 cores available
+2023-05-28 23:22:28.213 T:13852    info <general>: System has 8.0 GB of RAM installed
+2023-05-28 23:22:28.213 T:13852    info <general>: Desktop Resolution: 1366x768 32Bit at 60Hz
+2023-05-28 23:22:28.213 T:13852    info <general>: Running with restricted rights
+2023-05-28 23:22:28.213 T:13852    info <general>: Aero is enabled
+2023-05-28 23:22:28.213 T:13852    info <general>: Display is not HDR capable or cannot be detected
+2023-05-28 23:22:28.213 T:13852    info <general>: special://xbmc/ is mapped to: C:\Users\J4K3\AppData\Roaming\Kodi
+2023-05-28 23:22:28.213 T:13852    info <general>: special://xbmcbin/ is mapped to: C:\Users\J4K3\AppData\Roaming\Kodi
+2023-05-28 23:22:28.213 T:13852    info <general>: special://xbmcbinaddons/ is mapped to: C:\Users\J4K3\AppData\Roaming\Kodi/addons
+2023-05-28 23:22:28.213 T:13852    info <general>: special://masterprofile/ is mapped to: C:\Users\J4K3\AppData\Roaming\Kodi\userdata
+2023-05-28 23:22:28.213 T:13852    info <general>: special://home/ is mapped to: C:\Users\J4K3\AppData\Roaming\Kodi\
+2023-05-28 23:22:28.213 T:13852    info <general>: special://temp/ is mapped to: C:\Users\J4K3\AppData\Roaming\Kodi\cache
+2023-05-28 23:22:28.213 T:13852    info <general>: special://logpath/ is mapped to: C:\Users\J4K3\AppData\Roaming\Kodi\
+2023-05-28 23:22:28.213 T:13852    info <general>: Webserver extra whitelist paths: 
+2023-05-28 23:22:28.213 T:13852    info <general>: The executable running is: C:\Users\J4K3\AppData\Roaming\Kodi\kodi.exe
+2023-05-28 23:22:28.215 T:13852    info <general>: Local hostname: DESKTOP-I5K0KF2
+2023-05-28 23:22:28.215 T:13852    info <general>: Log File is located: C:\Users\J4K3\AppData\Roaming\Kodi\kodi.log
+2023-05-28 23:22:28.215 T:13852    info <general>: -----------------------------------------------------------------------
+2023-05-28 23:22:28.215 T:13852    info <general>: loading settings
+2023-05-28 23:22:28.217 T:13852    info <general>: special://profile/ is mapped to: special://masterprofile/
+2023-05-28 23:22:28.223 T:13852    info <general>: Skipped 1 duplicate messages..
+2023-05-28 23:22:28.223 T:13852    info <general>: No settings file to load (special://xbmc/system/advancedsettings.xml)
+2023-05-28 23:22:28.223 T:13852    info <general>: No settings file to load (special://masterprofile/advancedsettings.xml)
+2023-05-28 23:22:28.223 T:13852    info <general>: Default Video Player: VideoPlayer
+2023-05-28 23:22:28.223 T:13852    info <general>: Default Audio Player: paplayer
+2023-05-28 23:22:28.223 T:13852    info <general>: Disabled debug logging due to GUI setting. Level 0.
+2023-05-28 23:22:28.223 T:13852    info <general>: Log level changed to "info"
+2023-05-28 23:22:28.224 T:13852    info <general>: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+2023-05-28 23:22:28.228 T:13852    info <general>: creating subdirectories
+2023-05-28 23:22:28.228 T:13852    info <general>: userdata folder: special://masterprofile/
+2023-05-28 23:22:28.228 T:13852    info <general>: recording folder: 
+2023-05-28 23:22:28.228 T:13852    info <general>: screenshots folder: 
+2023-05-28 23:22:28.233 T:13852    info <general>: Running database version Addons33
+2023-05-28 23:22:28.390 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.aac v1.0.2 installed
+2023-05-28 23:22:28.390 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.wma v1.0.2 installed
+2023-05-28 23:22:28.390 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.default v1.0.39 installed
+2023-05-28 23:22:28.390 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.keyboard v1.1.27 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.mouse v1.0.22 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.snes v1.0.37 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.libretro v20.2.3 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.libretro.2048 v1.0.0.134 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.libretro.cannonball v0.0.1.26 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.libretro.mrboom v5.2.0.148 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: inputstream.adaptive v20.3.8 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.audioengine v1.1.1 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.filesystem v1.1.8 installed
+2023-05-28 23:22:28.391 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.general v1.0.5 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.gui v5.15.0 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.main v2.0.2 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.network v1.0.4 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.tools v1.0.4 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audiodecoder v4.0.0 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audioencoder v3.0.0 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.game v3.0.0 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.imagedecoder v3.0.1 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.inputstream v3.2.0 installed
+2023-05-28 23:22:28.392 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.peripheral v2.0.0 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.pvr v8.2.0 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.screensaver v2.2.0 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.vfs v3.0.1 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.videocodec v2.0.3 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.visualization v4.0.0 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.resource v1.0.0 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.album.universal v3.1.9 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.artists.universal v4.3.11 installed
+2023-05-28 23:22:28.393 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.allmusic.com v3.2.2 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.fanart.tv v3.6.4 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.musicbrainz.org v2.2.4 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.theaudiodb.com v2.0.3 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.albums v1.0.14 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.artists v1.0.14 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.local v1.0.1 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.themoviedb.org.python v2.1.0 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org.python v1.6.5 installed
+2023-05-28 23:22:28.394 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: peripheral.joystick v20.1.8 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: pvr.plutotv v20.3.0 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.xbmc.org v3.3.1 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.images.weathericons.default v1.1.9 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.en_gb v2.0.2 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.pt_br v10.0.69 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.uisounds.kodi v1.0.1 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.black v1.0.34 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.dim v1.0.66 installed
+2023-05-28 23:22:28.395 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.certifi v2022.9.24 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.chardet v4.0.0+matrix.1 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.future v0.18.2+matrix.1 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.idna v3.4.0 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.inputstreamhelper v0.6.0+matrix.1 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pil v5.1.0 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pycryptodome v3.4.3 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.requests v2.27.1+matrix.1 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.simpleeval v0.9.10 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.simpleplugin3 v3.0.6+matrix.1 installed
+2023-05-28 23:22:28.396 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.unidecode v1.1.1+matrix.2 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.urllib3 v1.26.13+matrix.1 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.skinshortcuts v2.0.3 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: service.xbmc.versioncheck v0.5.28+matrix.1 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estouchy v3.0.8 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estuary v3.0.10 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: weather.gismeteo v0.6.3+matrix.1 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.arch v2.0.5 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.awxi v0.7.6 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.chorus v0.3.10 installed
+2023-05-28 23:22:28.397 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.default v19.x-2.4.8 installed
+2023-05-28 23:22:28.398 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.hax v0.1.1 installed
+2023-05-28 23:22:28.398 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.tex v1.2.0 installed
+2023-05-28 23:22:28.398 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.addon v20.1.0 installed
+2023-05-28 23:22:28.398 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.core v0.1.0 installed
+2023-05-28 23:22:28.398 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.gui v5.16.0 installed
+2023-05-28 23:22:28.398 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.json v13.0.0 installed
+2023-05-28 23:22:28.398 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.metadata v2.1.0 installed
+2023-05-28 23:22:28.398 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.python v3.0.1 installed
+2023-05-28 23:22:28.399 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.webinterface v1.0.0 installed
+2023-05-28 23:22:28.403 T:13852    info <general>: CKeyboardLayoutManager: loading keyboard layouts from special://xbmc/system/keyboardlayouts...
+2023-05-28 23:22:28.422 T:15332    info <general>: Loading special://xbmc/system/IRSSmap.xml
+2023-05-28 23:22:28.422 T:15332    info <general>: * Adding remote mapping for device 'Microsoft MCE'
+2023-05-28 23:22:28.422 T:15332    info <general>: * Adding remote mapping for device 'Abstract'
+2023-05-28 23:22:28.423 T:13852    info <general>: Primary mode: Generic PnP Monitor #1: 1366x768 @ 60.00Hz
+2023-05-28 23:22:28.423 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 320x200 @ 60.00Hz
+2023-05-28 23:22:28.424 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 320x240 @ 60.00Hz
+2023-05-28 23:22:28.425 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 400x300 @ 60.00Hz
+2023-05-28 23:22:28.425 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 512x384 @ 60.00Hz
+2023-05-28 23:22:28.425 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 640x400 @ 60.00Hz
+2023-05-28 23:22:28.425 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 640x480 @ 60.00Hz
+2023-05-28 23:22:28.426 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 800x600 @ 60.00Hz
+2023-05-28 23:22:28.426 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 1024x768 @ 60.00Hz
+2023-05-28 23:22:28.426 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 1280x600 @ 60.00Hz
+2023-05-28 23:22:28.426 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 1280x720 @ 60.00Hz
+2023-05-28 23:22:28.426 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 1280x768 @ 60.00Hz
+2023-05-28 23:22:28.426 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 1360x768 @ 60.00Hz
+2023-05-28 23:22:28.427 T:13852    info <general>: Additional mode: Generic PnP Monitor #1: 1366x768 @ 60.00Hz
+2023-05-28 23:22:28.427 T:13852    info <general>: CApplication::CApplication::CreateGUI - using the default windowing system
+2023-05-28 23:22:28.427 T:13852    info <general>: Checking resolution 15
+2023-05-28 23:22:28.465 T:13852    info <general>: DX::DeviceResources::CheckNV12SharedTexturesSupport: extended NV12 shared textures is supported
+2023-05-28 23:22:28.465 T:13852    info <general>: DX::DeviceResources::CreateDeviceResources: device is created on adapter 'Intel(R) UHD Graphics' with D3D_FEATURE_LEVEL_12_1
+2023-05-28 23:22:28.465 T:13852    info <general>: DX::DeviceResources::GetVideoDriverVersion: video driver version is Intel 27.20.100.9664
+2023-05-28 23:22:28.465 T:13852    info <general>: DX::DeviceResources::CheckDXVA2SharedDecoderSurfaces: DXVA2 shared decoder surfaces is supported
+2023-05-28 23:22:28.486 T:13852    info <general>: DX::DeviceResources::ResizeBuffers: 8 bit swapchain is used with 6 flip discard buffers and SDR output
+2023-05-28 23:22:28.499 T:13852    info <general>: RetroPlayer[RENDER]: Registering renderer factory for DirectX
+2023-05-28 23:22:28.531 T:13852    info <general>: load keymapping
+2023-05-28 23:22:28.532 T:13852    info <general>: Loading special://xbmc/system/keymaps/appcommand.xml
+2023-05-28 23:22:28.533 T:13852    info <general>: Loading special://xbmc/system/keymaps/customcontroller.AppleRemote.xml
+2023-05-28 23:22:28.535 T:13852    info <general>: Loading special://xbmc/system/keymaps/customcontroller.Harmony.xml
+2023-05-28 23:22:28.536 T:13852    info <general>: Loading special://xbmc/system/keymaps/customcontroller.SiriRemote.xml
+2023-05-28 23:22:28.537 T:13852    info <general>: Loading special://xbmc/system/keymaps/gamepad.xml
+2023-05-28 23:22:28.538 T:13852    info <general>: Loading special://xbmc/system/keymaps/joystick.xml
+2023-05-28 23:22:28.540 T:13852    info <general>: Loading special://xbmc/system/keymaps/keyboard.xml
+2023-05-28 23:22:28.542 T:13852    info <general>: Loading special://xbmc/system/keymaps/mouse.xml
+2023-05-28 23:22:28.543 T:13852    info <general>: Loading special://xbmc/system/keymaps/remote.xml
+2023-05-28 23:22:28.545 T:13852    info <general>: Loading special://xbmc/system/keymaps/touchscreen.xml
+2023-05-28 23:22:28.547 T:13852    info <general>: GUI format 1350x689, Display Windowed
+2023-05-28 23:22:28.566 T:20740    info <general>: Found 2 Lists of Devices
+2023-05-28 23:22:28.566 T:20740    info <general>: Enumerated DIRECTSOUND devices:
+2023-05-28 23:22:28.566 T:20740    info <general>:     Device 1
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_deviceName      : {9D860848-1B9B-4DD1-895F-AF0166EECBB1}
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_displayName     : Speakers - Alto-falantes (Realtek(R) Audio)
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_displayNameExtra: DIRECTSOUND: Alto-falantes (Realtek(R) Audio)
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_channels        : FL, FR
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_sampleRates     : 48000
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_dataFormats     : AE_FMT_FLOAT
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_streamTypes     : No passthrough capabilities
+2023-05-28 23:22:28.566 T:20740    info <general>:     Device 2
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_deviceName      : default
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_displayName     : default
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_displayNameExtra: 
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_channels        : FL, FR
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_sampleRates     : 48000
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_dataFormats     : AE_FMT_FLOAT
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_streamTypes     : No passthrough capabilities
+2023-05-28 23:22:28.566 T:20740    info <general>: Enumerated WASAPI devices:
+2023-05-28 23:22:28.566 T:20740    info <general>:     Device 1
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_deviceName      : {9D860848-1B9B-4DD1-895F-AF0166EECBB1}
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_displayName     : Speakers - Alto-falantes (Realtek(R) Audio)
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_displayNameExtra: WASAPI: Alto-falantes (Realtek(R) Audio)
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_channels        : FL, FR
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_streamTypes     : No passthrough capabilities
+2023-05-28 23:22:28.566 T:20740    info <general>:     Device 2
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_deviceName      : default
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_displayName     : default
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_displayNameExtra: 
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_channels        : FL, FR
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
+2023-05-28 23:22:28.566 T:20740    info <general>:         m_streamTypes     : No passthrough capabilities
+2023-05-28 23:22:28.566 T:17436    info <general>: CActiveAESink::OpenSink - initialize sink
+2023-05-28 23:22:28.585 T:20740 warning <general>: CActiveAE::ActiveAE::CActiveAE::StateMachine - signal: 0 from port: OutputControlPort not handled for state: 7
+2023-05-28 23:22:28.585 T:13852    info <general>: Skipped 1 duplicate messages..
+2023-05-28 23:22:28.585 T:13852    info <general>: CLangInfo: loading resource.language.pt_br language information...
+2023-05-28 23:22:28.600 T:13852    info <general>: global locale set to pt-br
+2023-05-28 23:22:28.601 T:13852    info <general>: CLangInfo: loading resource.language.pt_br language strings...
+2023-05-28 23:22:28.753 T:7976     info <general>: Running database version Addons33
+2023-05-28 23:22:28.754 T:7976     info <general>: Running database version ViewModes6
+2023-05-28 23:22:28.755 T:7976     info <general>: Running database version Textures13
+2023-05-28 23:22:28.759 T:7976     info <general>: Running database version MyMusic82
+2023-05-28 23:22:28.762 T:7976     info <general>: Running database version MyVideos121
+2023-05-28 23:22:28.764 T:7976     info <general>: Running database version TV40
+2023-05-28 23:22:28.765 T:7976     info <general>: Running database version Epg16
+2023-05-28 23:22:28.811 T:13852    info <general>: Unloaded skin
+2023-05-28 23:22:28.813 T:13852    info <general>:   load skin from: C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\ (version: 3.0.10)
+2023-05-28 23:22:28.813 T:13852    info <general>:   load fonts for skin...
+2023-05-28 23:22:28.816 T:13852    info <general>: Loading skin includes from C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\xml\Includes.xml
+2023-05-28 23:22:28.878 T:13852    info <general>: GUIFontManager::LoadFonts: Loading fonts from 'C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\xml\Font.xml'
+2023-05-28 23:22:28.954 T:13852    info <general>: ADDON::CSkinInfo::LoadTimers: Trying to load skin timers from C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\xml\Timers.xml
+2023-05-28 23:22:28.959 T:13852    info <general>:   load new skin...
+2023-05-28 23:22:28.960 T:13852    info <general>: Loading custom window XMLs from skin path C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\xml
+2023-05-28 23:22:28.975 T:13852    info <general>:   initialize new skin...
+2023-05-28 23:22:28.975 T:13852    info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:28.982 T:13852    info <general>: Loading skin file: Pointer.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:28.989 T:13852    info <general>: Loading skin file: DialogVolumeBar.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:28.992 T:13852    info <general>: Loading skin file: DialogExtendedProgressBar.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:28.998 T:13852    info <general>: Loading skin file: DialogSeekBar.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:29.019 T:13852    info <general>: Loading skin file: DialogNotification.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:29.022 T:13852    info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:29.023 T:13852    info <general>: Loading skin file: Custom_1109_TopBarOverlay.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:29.031 T:13852    info <general>: Loading resource://resource.uisounds.kodi/sounds.xml
+2023-05-28 23:22:29.090 T:13852    info <general>:   skin loaded...
+2023-05-28 23:22:29.091 T:13852    info <general>: Loading skin file: LoginScreen.xml, load type: KEEP_IN_MEMORY
+2023-05-28 23:22:29.113 T:13852 warning <general>: JSONRPC: Could not parse type "Setting.Details.SettingList"
+2023-05-28 23:22:29.113 T:13852    info <general>: JSONRPC: Adding type "Setting.Details.SettingList" to list of incomplete definitions (waiting for "Setting.Details.Setting")
+2023-05-28 23:22:29.113 T:13852    info <general>: JSONRPC: Resolving incomplete types/methods referencing Setting.Details.Setting
+2023-05-28 23:22:29.126 T:13852    info <general>: JSONRPC v13.0.0: Successfully initialized
+2023-05-28 23:22:29.163 T:13852    info <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "xinput"
+2023-05-28 23:22:29.167 T:13852    info <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "directinput"
+2023-05-28 23:22:29.170 T:13852    info <general>: PERIPHERALS::CPeripheralBus::Register - new keyboard device registered on application->keyboard: Teclado (0000:0000)
+2023-05-28 23:22:29.171 T:13852    info <general>: PERIPHERALS::CPeripheralBus::Register - new mouse device registered on application->mouse: Mouse (0000:0000)
+2023-05-28 23:22:29.174 T:13852    info <general>: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2023-05-28 23:22:29.175 T:13852    info <general>: Loaded playercorefactory configuration
+2023-05-28 23:22:29.175 T:13852    info <general>: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2023-05-28 23:22:29.176 T:13852    info <general>: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2023-05-28 23:22:29.176 T:13852    info <general>: removing tempfiles
+2023-05-28 23:22:29.180 T:13852    info <general>: initialize done
+2023-05-28 23:22:29.181 T:13852    info <general>: Running the application...
+2023-05-28 23:22:29.193 T:17892    info <general>: ES: Starting UDP Event server on port 9777
+2023-05-28 23:22:29.193 T:17892    info <general>: UDP: Listening on port 9777 (ipv6 : false)
+2023-05-28 23:22:29.194 T:13852    info <general>: JSONRPC Server: Successfully initialized
+2023-05-28 23:22:29.196 T:13852    info <CWebserver[8080]>: Started
+2023-05-28 23:22:29.211 T:13852    info <general>: [WS-Discovery]: Daemon started successfully.
+2023-05-28 23:22:29.295 T:7976     info <general>: WEATHER: Downloading weather
+2023-05-28 23:22:32.265 T:13852    info <general>: Loading skin file: DialogSettings.xml, load type: KEEP_IN_MEMORY
+2023-05-28 23:22:32.523 T:15332    info <general>: CIRServerSuite::Process: failed to connect to irss, will keep retrying every 5 seconds
+2023-05-28 23:22:34.499 T:13852 warning <general>: CGUIWindowManager - CGUIWindowManager::HandleAction - ignoring action 107, because topmost modal dialog closing animation is running
+2023-05-28 23:22:34.699 T:13852    info <general>: Skipped 9 duplicate messages..
+2023-05-28 23:22:34.699 T:13852    info <general>: ES: Stopping event server
+2023-05-28 23:22:34.699 T:13852    info <general>: [WS-Discovery]: terminating
+2023-05-28 23:22:35.033 T:13852    info <CWebserver[8080]>: Stopped
+2023-05-28 23:22:35.196 T:17892    info <general>: ES: UDP Event server stopped
+2023-05-28 23:22:35.218 T:13852    info <general>: special://profile/ is mapped to: special://masterprofile/profiles/Persona/
+2023-05-28 23:22:35.221 T:13852   error <general>: CSettings: unable to load settings from special://profile/guisettings.xml, creating new default settings
+2023-05-28 23:22:35.273 T:13852    info <general>: No settings file to load (special://xbmc/system/advancedsettings.xml)
+2023-05-28 23:22:35.273 T:13852    info <general>: No settings file to load (special://masterprofile/advancedsettings.xml)
+2023-05-28 23:22:35.273 T:13852    info <general>: Default Video Player: VideoPlayer
+2023-05-28 23:22:35.273 T:13852    info <general>: Default Audio Player: paplayer
+2023-05-28 23:22:35.273 T:13852    info <general>: Disabled debug logging due to GUI setting. Level 0.
+2023-05-28 23:22:35.276 T:13852    info <general>: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2023-05-28 23:22:35.277 T:13852    info <general>: Loaded playercorefactory configuration
+2023-05-28 23:22:35.277 T:13852    info <general>: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2023-05-28 23:22:35.277 T:13852    info <general>: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2023-05-28 23:22:35.297 T:13852    info <general>: creating version table
+2023-05-28 23:22:35.299 T:13852    info <general>: create addons table
+2023-05-28 23:22:35.299 T:13852    info <general>: create repo table
+2023-05-28 23:22:35.299 T:13852    info <general>: create addonlinkrepo table
+2023-05-28 23:22:35.299 T:13852    info <general>: create update_rules table
+2023-05-28 23:22:35.299 T:13852    info <general>: create package table
+2023-05-28 23:22:35.299 T:13852    info <general>: create installed table
+2023-05-28 23:22:35.299 T:13852    info <general>: ADDON::CAddonDatabase::CreateAnalytics creating indices
+2023-05-28 23:22:35.309 T:13852    info <general>: creating version table
+2023-05-28 23:22:35.309 T:13852    info <general>: create view table
+2023-05-28 23:22:35.310 T:13852    info <general>: CViewDatabase::CreateAnalytics - creating indices
+2023-05-28 23:22:35.326 T:13852    info <general>: creating version table
+2023-05-28 23:22:35.326 T:13852    info <general>: create texture table
+2023-05-28 23:22:35.326 T:13852    info <general>: create sizes table, index,  and trigger
+2023-05-28 23:22:35.326 T:13852    info <general>: create path table
+2023-05-28 23:22:35.326 T:13852    info <general>: CTextureDatabase::CreateAnalytics creating indices
+2023-05-28 23:22:35.327 T:13852    info <general>: CTextureDatabase::CreateAnalytics creating triggers
+2023-05-28 23:22:35.340 T:13852    info <general>: creating version table
+2023-05-28 23:22:35.341 T:13852    info <general>: create artist table
+2023-05-28 23:22:35.342 T:13852    info <general>: create album table
+2023-05-28 23:22:35.342 T:13852    info <general>: create audiobook table
+2023-05-28 23:22:35.342 T:13852    info <general>: create album_artist table
+2023-05-28 23:22:35.342 T:13852    info <general>: create album_source table
+2023-05-28 23:22:35.342 T:13852    info <general>: create genre table
+2023-05-28 23:22:35.342 T:13852    info <general>: create path table
+2023-05-28 23:22:35.342 T:13852    info <general>: create source table
+2023-05-28 23:22:35.342 T:13852    info <general>: create source_path table
+2023-05-28 23:22:35.342 T:13852    info <general>: create song table
+2023-05-28 23:22:35.342 T:13852    info <general>: create song_artist table
+2023-05-28 23:22:35.342 T:13852    info <general>: create song_genre table
+2023-05-28 23:22:35.343 T:13852    info <general>: create role table
+2023-05-28 23:22:35.343 T:13852    info <general>: create infosetting table
+2023-05-28 23:22:35.343 T:13852    info <general>: create discography table
+2023-05-28 23:22:35.343 T:13852    info <general>: create art table
+2023-05-28 23:22:35.343 T:13852    info <general>: create versiontagscan table
+2023-05-28 23:22:35.343 T:13852    info <general>: create removed_link table
+2023-05-28 23:22:35.344 T:13852    info <general>: CMusicDatabase::CreateAnalytics - creating indices
+2023-05-28 23:22:35.346 T:13852    info <general>: create triggers
+2023-05-28 23:22:35.346 T:13852    info <general>: create song view
+2023-05-28 23:22:35.347 T:13852    info <general>: create album view
+2023-05-28 23:22:35.347 T:13852    info <general>: create artist view
+2023-05-28 23:22:35.347 T:13852    info <general>: create albumartist view
+2023-05-28 23:22:35.347 T:13852    info <general>: create songartist view
+2023-05-28 23:22:35.363 T:13852    info <general>: creating version table
+2023-05-28 23:22:35.364 T:13852    info <general>: create bookmark table
+2023-05-28 23:22:35.364 T:13852    info <general>: create settings table
+2023-05-28 23:22:35.364 T:13852    info <general>: create stacktimes table
+2023-05-28 23:22:35.364 T:13852    info <general>: create genre table
+2023-05-28 23:22:35.364 T:13852    info <general>: create country table
+2023-05-28 23:22:35.364 T:13852    info <general>: create movie table
+2023-05-28 23:22:35.365 T:13852    info <general>: create actor table
+2023-05-28 23:22:35.365 T:13852    info <general>: create path table
+2023-05-28 23:22:35.365 T:13852    info <general>: create files table
+2023-05-28 23:22:35.365 T:13852    info <general>: create tvshow table
+2023-05-28 23:22:35.365 T:13852    info <general>: create episode table
+2023-05-28 23:22:35.365 T:13852    info <general>: create tvshowlinkpath table
+2023-05-28 23:22:35.365 T:13852    info <general>: create movielinktvshow table
+2023-05-28 23:22:35.365 T:13852    info <general>: create studio table
+2023-05-28 23:22:35.365 T:13852    info <general>: create musicvideo table
+2023-05-28 23:22:35.365 T:13852    info <general>: create streaminfo table
+2023-05-28 23:22:35.365 T:13852    info <general>: create sets table
+2023-05-28 23:22:35.366 T:13852    info <general>: create seasons table
+2023-05-28 23:22:35.366 T:13852    info <general>: create art table
+2023-05-28 23:22:35.366 T:13852    info <general>: create tag table
+2023-05-28 23:22:35.366 T:13852    info <general>: create rating table
+2023-05-28 23:22:35.366 T:13852    info <general>: create uniqueid table
+2023-05-28 23:22:35.366 T:13852    info <general>: CVideoDatabase::CreateAnalytics - creating indices
+2023-05-28 23:22:35.369 T:13852    info <general>: CVideoDatabase::CreateAnalytics - creating triggers
+2023-05-28 23:22:35.369 T:13852    info <general>: create episode_view
+2023-05-28 23:22:35.370 T:13852    info <general>: create tvshowcounts
+2023-05-28 23:22:35.370 T:13852    info <general>: create tvshowlinkpath_minview
+2023-05-28 23:22:35.370 T:13852    info <general>: create tvshow_view
+2023-05-28 23:22:35.370 T:13852    info <general>: create season_view
+2023-05-28 23:22:35.370 T:13852    info <general>: create musicvideo_view
+2023-05-28 23:22:35.371 T:13852    info <general>: create movie_view
+2023-05-28 23:22:35.388 T:13852    info <general>: creating version table
+2023-05-28 23:22:35.389 T:13852    info <general>: PVR::CPVRDatabase::CreateTables: Creating PVR database tables
+2023-05-28 23:22:35.390 T:13852    info <general>: PVR::CPVRDatabase::CreateAnalytics: Creating PVR database indices
+2023-05-28 23:22:35.402 T:13852    info <general>: creating version table
+2023-05-28 23:22:35.403 T:13852    info <general>: Creating EPG database tables
+2023-05-28 23:22:35.410 T:13852    info <general>: Loading special://xbmc/system/keymaps/appcommand.xml
+2023-05-28 23:22:35.410 T:13852    info <general>: Loading special://xbmc/system/keymaps/customcontroller.AppleRemote.xml
+2023-05-28 23:22:35.411 T:13852    info <general>: Loading special://xbmc/system/keymaps/customcontroller.Harmony.xml
+2023-05-28 23:22:35.412 T:13852    info <general>: Loading special://xbmc/system/keymaps/customcontroller.SiriRemote.xml
+2023-05-28 23:22:35.412 T:13852    info <general>: Loading special://xbmc/system/keymaps/gamepad.xml
+2023-05-28 23:22:35.413 T:13852    info <general>: Loading special://xbmc/system/keymaps/joystick.xml
+2023-05-28 23:22:35.414 T:13852    info <general>: Loading special://xbmc/system/keymaps/keyboard.xml
+2023-05-28 23:22:35.417 T:13852    info <general>: Loading special://xbmc/system/keymaps/mouse.xml
+2023-05-28 23:22:35.418 T:13852    info <general>: Loading special://xbmc/system/keymaps/remote.xml
+2023-05-28 23:22:35.420 T:13852    info <general>: Loading special://xbmc/system/keymaps/touchscreen.xml
+2023-05-28 23:22:35.425 T:8804     info <general>: ES: Starting UDP Event server on port 9777
+2023-05-28 23:22:35.426 T:8804     info <general>: UDP: Listening on port 9777 (ipv6 : false)
+2023-05-28 23:22:35.426 T:13852    info <general>: JSONRPC Server: Successfully initialized
+2023-05-28 23:22:35.431 T:13852    info <general>: [WS-Discovery]: Daemon started successfully.
+2023-05-28 23:22:35.512 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.aac v1.0.2 installed
+2023-05-28 23:22:35.512 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.wma v1.0.2 installed
+2023-05-28 23:22:35.512 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.default v1.0.39 installed
+2023-05-28 23:22:35.512 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.keyboard v1.1.27 installed
+2023-05-28 23:22:35.512 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.mouse v1.0.22 installed
+2023-05-28 23:22:35.512 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.snes v1.0.37 installed
+2023-05-28 23:22:35.512 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.libretro v20.2.3 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.libretro.2048 v1.0.0.134 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.libretro.cannonball v0.0.1.26 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.libretro.mrboom v5.2.0.148 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: inputstream.adaptive v20.3.8 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.audioengine v1.1.1 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.filesystem v1.1.8 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.general v1.0.5 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.gui v5.15.0 installed
+2023-05-28 23:22:35.513 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.main v2.0.2 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.network v1.0.4 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.tools v1.0.4 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audiodecoder v4.0.0 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audioencoder v3.0.0 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.game v3.0.0 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.imagedecoder v3.0.1 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.inputstream v3.2.0 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.peripheral v2.0.0 installed
+2023-05-28 23:22:35.514 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.pvr v8.2.0 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.screensaver v2.2.0 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.vfs v3.0.1 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.videocodec v2.0.3 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.visualization v4.0.0 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.resource v1.0.0 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.album.universal v3.1.9 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.artists.universal v4.3.11 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.allmusic.com v3.2.2 installed
+2023-05-28 23:22:35.515 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.fanart.tv v3.6.4 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.musicbrainz.org v2.2.4 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.theaudiodb.com v2.0.3 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.albums v1.0.14 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.artists v1.0.14 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.local v1.0.1 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.themoviedb.org.python v2.1.0 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org.python v1.6.5 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: peripheral.joystick v20.1.8 installed
+2023-05-28 23:22:35.516 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: pvr.plutotv v20.3.0 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.xbmc.org v3.3.1 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.images.weathericons.default v1.1.9 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.en_gb v2.0.2 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.pt_br v10.0.69 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.uisounds.kodi v1.0.1 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.black v1.0.34 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.dim v1.0.66 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.certifi v2022.9.24 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.chardet v4.0.0+matrix.1 installed
+2023-05-28 23:22:35.517 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.future v0.18.2+matrix.1 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.idna v3.4.0 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.inputstreamhelper v0.6.0+matrix.1 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pil v5.1.0 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pycryptodome v3.4.3 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.requests v2.27.1+matrix.1 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.simpleeval v0.9.10 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.simpleplugin3 v3.0.6+matrix.1 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.unidecode v1.1.1+matrix.2 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.urllib3 v1.26.13+matrix.1 installed
+2023-05-28 23:22:35.518 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.skinshortcuts v2.0.3 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: service.xbmc.versioncheck v0.5.28+matrix.1 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estouchy v3.0.8 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estuary v3.0.10 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: weather.gismeteo v0.6.3+matrix.1 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.arch v2.0.5 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.awxi v0.7.6 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.chorus v0.3.10 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.default v19.x-2.4.8 installed
+2023-05-28 23:22:35.519 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.hax v0.1.1 installed
+2023-05-28 23:22:35.520 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.tex v1.2.0 installed
+2023-05-28 23:22:35.520 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.addon v20.1.0 installed
+2023-05-28 23:22:35.520 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.core v0.1.0 installed
+2023-05-28 23:22:35.520 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.gui v5.16.0 installed
+2023-05-28 23:22:35.520 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.json v13.0.0 installed
+2023-05-28 23:22:35.520 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.metadata v2.1.0 installed
+2023-05-28 23:22:35.520 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.python v3.0.1 installed
+2023-05-28 23:22:35.520 T:13852    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.webinterface v1.0.0 installed
+2023-05-28 23:22:35.521 T:13852    info <general>: CLangInfo: loading resource.language.en_gb language information...
+2023-05-28 23:22:35.587 T:13852    info <general>: global locale set to en-us
+2023-05-28 23:22:35.587 T:13852    info <general>: CLangInfo: loading resource.language.en_gb language strings...
+2023-05-28 23:22:35.615 T:13852    info <general>: Loading skin file: Startup.xml, load type: LOAD_EVERY_TIME
+2023-05-28 23:22:35.615 T:13852    info <general>: Loading skin file: Home.xml, load type: KEEP_IN_MEMORY
+2023-05-28 23:22:35.672 T:13852    info <general>: Unloaded skin
+2023-05-28 23:22:35.680 T:13852    info <general>:   load skin from: C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\ (version: 3.0.10)
+2023-05-28 23:22:35.682 T:13852    info <general>:   load fonts for skin...
+2023-05-28 23:22:35.684 T:13852    info <general>: Loading skin includes from C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\xml\Includes.xml
+2023-05-28 23:22:35.715 T:13852    info <general>: GUIFontManager::LoadFonts: Loading fonts from 'C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\xml\Font.xml'
+2023-05-28 23:22:35.728 T:13852    info <general>: ADDON::CSkinInfo::LoadTimers: Trying to load skin timers from C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\xml\Timers.xml
+2023-05-28 23:22:35.728 T:13852    info <general>:   load new skin...
+2023-05-28 23:22:35.728 T:13852    info <general>: Loading custom window XMLs from skin path C:\Users\J4K3\AppData\Roaming\Kodi\addons\skin.estuary\xml
+2023-05-28 23:22:35.733 T:13852    info <general>:   initialize new skin...
+2023-05-28 23:22:35.733 T:13852    info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:35.734 T:13852    info <general>: Loading skin file: Pointer.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:35.736 T:13852    info <general>: Loading skin file: DialogVolumeBar.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:35.736 T:13852    info <general>: Loading skin file: DialogExtendedProgressBar.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:35.737 T:13852    info <general>: Loading skin file: DialogSeekBar.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:35.745 T:13852    info <general>: Loading skin file: DialogNotification.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:35.745 T:13852    info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:35.746 T:13852    info <general>: Loading skin file: Custom_1109_TopBarOverlay.xml, load type: LOAD_ON_GUI_INIT
+2023-05-28 23:22:35.750 T:13852    info <general>: Loading resource://resource.uisounds.kodi/sounds.xml
+2023-05-28 23:22:35.763 T:13852    info <general>:   skin loaded...
+2023-05-28 23:22:35.763 T:13852    info <general>: Loading skin file: Home.xml, load type: KEEP_IN_MEMORY
+2023-05-28 23:22:40.733 T:13852    info <general>: Loading skin file: DialogButtonMenu.xml, load type: KEEP_IN_MEMORY
+2023-05-28 23:22:43.418 T:13852    info <general>: Stopping the application...
+2023-05-28 23:22:43.418 T:13852    info <general>: Stopping player
+2023-05-28 23:22:43.418 T:13852    info <general>: Storing total System Uptime
+2023-05-28 23:22:43.419 T:13852    info <general>: Saving settings
+2023-05-28 23:22:43.433 T:13852    info <general>: Saving skin settings
+2023-05-28 23:22:43.435 T:13852    info <general>: Stopping all
+2023-05-28 23:22:43.435 T:13852    info <general>: ES: Stopping event server
+2023-05-28 23:22:43.435 T:13852    info <general>: [WS-Discovery]: terminating
+2023-05-28 23:22:44.431 T:8804     info <general>: ES: UDP Event server stopped
+2023-05-28 23:22:44.432 T:13852    info <general>: CServiceAddonManager: failed to stop service.xbmc.versioncheck (may have ended)
+2023-05-28 23:22:44.465 T:13852    info <general>: Application stopped
+2023-05-28 23:22:45.147 T:13852    info <general>: AddOnLog: peripheral.joystick: Disabling joystick interface "directinput"
+2023-05-28 23:22:45.147 T:13852    info <general>: AddOnLog: peripheral.joystick: Disabling joystick interface "xinput"
+2023-05-28 23:22:45.148 T:13852    info <general>: ADDON: Dll Destroyed - Joystick Support
+2023-05-28 23:22:45.148 T:13852    info <general>: unload skin
+2023-05-28 23:22:45.168 T:13852    info <general>: Unloaded skin
+2023-05-28 23:22:45.201 T:13852    info <general>: unload sections
+2023-05-28 23:22:45.207 T:13852    info <general>: Exiting the application...
